@@ -5,3 +5,15 @@ Tasks remaining:
 3. Add references.  
   
 In case if notebook isn't loading here, click this link: https://nbviewer.jupyter.org/github/sanchitvj/AOD-net-using-TF-v2/blob/master/dehazing_using_tf2.ipynb   
+  
+### Citation
+
+```
+@InProceedings{Li_2017_ICCV,
+author = {Li, Boyi and Peng, Xiulian and Wang, Zhangyang and Xu, Jizheng and Feng, Dan},
+title = {AOD-Net: All-In-One Dehazing Network},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {Oct},
+year = {2017}
+}
+```
