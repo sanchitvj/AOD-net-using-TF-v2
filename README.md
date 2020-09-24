@@ -1,6 +1,7 @@
 # Image Dehazing using AOD net  
 
 ## Requirements:  
+- Python (Version 3.6.9)
 - Tensorflow (Version 2+)  
 - GPU used: Nvidia K80 (provided by colab)  
 
