@@ -1,3 +1,10 @@
+# Image Dehazing using AOD net  
+
+## Requirements:  
+- Tensorflow (Version 2+)  
+- GPU used: Nvidia K80 (provided by colab)  
+
+
 Training of model is done.  
 Tasks remaining:  
 1. Testing on real images.
@@ -6,7 +13,7 @@ Tasks remaining:
   
 In case if notebook isn't loading here, click this link: https://nbviewer.jupyter.org/github/sanchitvj/AOD-net-using-TF-v2/blob/master/dehazing_using_tf2.ipynb   
 
-**Architecture**  
+## Architecture  
 ![AOD_architecture](AOD_architecture.png)  
   
 ### Citation
